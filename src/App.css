@@ -9,6 +9,10 @@ body {
   color: white;
 }
 
+.hidden {
+  visibility: hidden;
+}
+
 .App {
   background-color: #222;
   height: 100vh;
@@ -59,3 +63,4 @@ body {
 .Tracker-btn:not(:last-child) {
   margin-right: 30px;
 }
+
